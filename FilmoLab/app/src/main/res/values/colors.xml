@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores para o tema Preto e Vermelho (FilmoLab) -->
+    <color name="black_primary">#FF000000</color>
+    <color name="black_secondary">#FF121212</color>
+    <color name="red_accent">#FFD32F2F</color> <!-- Um vermelho escuro vibrante -->
+    <color name="red_light">#FFE57373</color>
+    <color name="white_text">#FFFFFFFF</color>
+    <color name="gray_text">#FFBDBDBD</color>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FilmoLab</string>
+    <string name="search_hint">Pesquisar filmes...</string>
+    <string name="menu_home">Início</string>
+    <string name="menu_favorites">Favoritos</string>
+    <string name="menu_history">Histórico</string>
+</resources>
